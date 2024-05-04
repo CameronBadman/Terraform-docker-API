@@ -1,2 +1,4 @@
 node_modules
 database/appdb.db
+.terraform
+.terraform.lock.hcl
