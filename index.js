@@ -50,7 +50,7 @@ const sql_create_speakers_tbl = `CREATE TABLE IF NOT EXISTS Speakers (
 
 
 /* Port listening */
-app.listen(5000, ()=> {
+app.listen(8081, ()=> {
     console.log("server started at port 5000")
 })
 
